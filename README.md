@@ -8,8 +8,8 @@ Then press on <b>CTRL</b> top of keyboard and enter <b>C</b> fron keyboard (CTRL
 and then enter this code :<br>
 <code>php gallery.php</code>
 <br>
-END
-————————————————————————————————————
+END<br>
+————————————————————————————————————<br>
 #گلددو پروژه بر پایه <b>PHP</b>
 <br>
 ابتدا از این دستور در <b>ترموکس</b> برای نصب پیش نیاز ها استفاده کنید :
